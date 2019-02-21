@@ -1,0 +1,5 @@
+#!/bin/bash
+dir=$(pwd)
+echo Current directory is $dir
+dt=$(date '+%d/%m/%Y_%H:%M:%S')
+echo Current date is $dt
